@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "readonly_array": "ts-node readonly_array.ts",
+    "switch": "ts-node switch.ts"
+  },
+  "dependencies": {
+    "ts-node": "^10.8.1"
+  }
+}
